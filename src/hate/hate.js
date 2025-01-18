@@ -1,3 +1,3 @@
 const hate = (whatIHate) => whatIHate;
 
-console.log(hate("Arsenal"));
+console.log(hate("pride"));
